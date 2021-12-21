@@ -14,7 +14,7 @@ Ejemplo:
 
 3) Pedir un número por prompt y evaluar si está entre 10 y 50. En caso positivo mostrar un alert.
 
-Detalle: en vez de 1000 le puse 5000 USD. 
+**Detalle**: en vez de 1000 le puse 5000 USD. 
 
 
 ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
